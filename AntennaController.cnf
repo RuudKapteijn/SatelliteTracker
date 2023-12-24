@@ -1,0 +1,11 @@
+[DEFAULT]
+
+[WIFI]
+ssid = SSID-name
+pwd = Password
+
+[MQTT]
+server = MQTT-server-address
+port = 1883
+uid = MQTT-uid
+pwd = MQTT-pwd
