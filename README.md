@@ -1,5 +1,6 @@
 # SatelliteTracker
-Automatic satellite tracking antanna rotator to exchange APRS messages with amateur radio satellites
+Automatic satellite tracking configuration to send APRS messages across amateur radio satellites
 
+![Design](design1.png)
 
-![Design](design.png)
+![Design](design2.png)
